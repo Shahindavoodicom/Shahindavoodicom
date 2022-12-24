@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shahindavoodi
+- 👀 I’m interested in js , php , py, css, html , react
+- 🌱 I’m currently learning react
