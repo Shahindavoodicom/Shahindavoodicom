@@ -109,11 +109,6 @@
   <img height="200" src="https://i.gifer.com/LuTZ.gif"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Shahindavoodicom/Shahindavoodicom/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="right">
   <img height="210" src="https://i.gifer.com/R2oi.gif"  />
