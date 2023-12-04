@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👯 I’m looking to collaborate on **machine learning and AI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shahindavoodicom](https://github.com/Shahindavoodicom)
 
 - 📝 I regularly write articles on [https://medium.com/@shahindavoodi](https://medium.com/@shahindavoodi)
