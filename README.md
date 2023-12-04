@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **shahindavoodi.w@gmail.com**
 
-- i can talk and write 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
