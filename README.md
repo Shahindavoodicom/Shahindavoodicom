@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shahindavoodicom&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-</div>
+<h5 align="left">my knowledge</h5>
 
 ###
 
@@ -91,6 +88,16 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahindavoodicom&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h6 align="left">get in touch with me</h6>
+
+###
+
 <div align="left">
   <a href="https://twitter.com/shahini_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -109,6 +116,7 @@
   <img height="200" src="https://i.gifer.com/LuTZ.gif"  />
 </div>
 
+###
 
 <div align="right">
   <img height="210" src="https://i.gifer.com/R2oi.gif"  />
