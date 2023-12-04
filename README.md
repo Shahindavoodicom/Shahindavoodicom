@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm shahin</h1>
 <h3 align="center">I'm a geek !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahindavoodicom&label=Profile%20views&color=0e75b6&style=flat" alt="shahindavoodicom" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahindavoodicom" alt="shahindavoodicom" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shahini_" target="blank"><img src="https://img.shields.io/twitter/follow/shahini_?logo=twitter&style=for-the-badge" alt="shahini_" /></a> </p>
 
 - 🔭 I’m currently working on **a online shop**
 
 - 🌱 I’m currently learning **machine learning**
-
-- 👯 I’m looking to collaborate on **machine learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahindavoodicom](https://github.com/Shahindavoodicom)
 
@@ -20,6 +14,8 @@
 - 💬 Ask me about **web develop**
 
 - 📫 How to reach me **shahindavoodi.w@gmail.com**
+
+- i can talk and write 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahindavoodicom&show_icons=true&locale=en&layout=compact" alt="shahindavoodicom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahindavoodicom&show_icons=true&locale=en" alt="shahindavoodicom" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahindavoodicom&" alt="shahindavoodicom" /></p>
